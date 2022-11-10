@@ -13,7 +13,6 @@ Description of the data files used as input files for the codes:
 •	The NC_000913.gbk file consists of the complete genome of the Escherichia coli str. K-12 substring MG1655.
 •	NC_000913.faa file represents the protein sequences of the Escherichia coli str. K-12 substring MG1655.
 •	PGSC_DM_v3.4_pep_representative.fasta file includes potato protein sequences of doubled monoploid S. tuberosum Group Phureja clone DM1-3.
-•	PGSC_DM_v3.4_pep_rep_no_stars.fasta file is identical with the PGSC_DM_v3.4_pep_representative file except for not having asterisk sign (*) at the end of each record.
 
 The python source codes are:
 •	Total_gene_lengths.py: calculates the total length of all genes of E.coli using the input file, NC_000913.gbk, and prints it.
